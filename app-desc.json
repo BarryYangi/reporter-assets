@@ -5,6 +5,7 @@
   "NeteaseMusic": "听歌",
   "QQ音乐": "听歌",
   "QQMusic": "听歌",
+  "Spotify": "听歌",
   "Google Chrome": "冲浪",
   "Google Chrome Canary": "调试",
   "QQ": "水群",
@@ -35,5 +36,13 @@
   "Cursor":"⌘ + K",
   "Epic":"看有没有什么神秘小游戏白嫖",
   "Lightroome":"试图使直出变好看",
-  "iPhone镜像": "玩手机"
+  "iPhone镜像": "玩手机",
+  "Ghostty": "敲命令",
+  "Alma": "探讨人生",
+  "Todoist": "列清单",
+  "Tana": "记录",
+  "Heptabase": "写文章",
+  "ChatWise":"和 AI 唠嗑",
+  "Conductor":"Vibe Coding",
+  "Antigravity":"Vibe Coding"
 }
